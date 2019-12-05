@@ -1,0 +1,1 @@
+#nohup unbuffer bash ./dnet.sh &
